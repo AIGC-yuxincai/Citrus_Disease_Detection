@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Detection of Fungal Disease in Citrus Fruit Based on Hyperspectral Imaging
 
 The dataset will be made available for access after the publication of the article. Please wait for further updates.
@@ -12,7 +11,7 @@ The dataset can be obtained here. It contains recordings of:
 - `Phytophthora citricola`		210 images
 - `Phytophthora citrophthora`		205 images
 
-<img src="E:\Citrus fruit fungal disease\images\image_1.png" style="zoom: 33%;" />
+<img src=".\images\image_1.png" style="zoom: 33%;" />
 
 ​						Fig. 1.RGB images of three citrus diseases synthesized from visible light spectra.
 
@@ -45,7 +44,3 @@ The code is divided into subfolders, which correspond to the use cases:
 
 - `validAccResult.py` Validate the model effect through the test set. Replace the saved model with the corresponding position in the code.The default model is `Our_model_CARS.pth`.
 
-=======
-# Citrus_Disease_Detection
-This is the related code and data from the article "Detection of Fungal Disease in Citrus Fruit Based on Hyperspectral Imaging."
->>>>>>> 8b08c952554a3ddde8614c092aa83ccdc5675499
