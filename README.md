@@ -11,7 +11,7 @@ The dataset can be obtained here. It contains recordings of:
 - `Phytophthora citricola`		210 images
 - `Phytophthora citrophthora`		205 images
 
-<img src=".\images\image_1.png" style="zoom: 33%;" />
+<img src=".\images\image_1.png" style="zoom: 20%;" />
 
 ​						Fig. 1.RGB images of three citrus diseases synthesized from visible light spectra.
 
