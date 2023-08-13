@@ -1,7 +1,6 @@
 # Detection of Fungal Disease in Citrus Fruit Based on Hyperspectral Imaging
 
-The dataset will be made available for access after the publication of the article. Please wait for further updates.
-
+The dataset is here.The extraction password is: jlhj.
 ## Dataset
 
 The dataset can be obtained here. It contains recordings of:
